@@ -1,0 +1,17 @@
+{
+    "geode": "3.0.0-beta.1",
+    "id": "tu-nombre.webhook-mod",
+    "version": "1.0.0",
+    "name": "What are you playing? (For Discord) ",
+    "developer": "Thekuruku",
+    "description": "It's an experimental mod about a What are you playing? notification system on a customizable Discord webhook.  ",
+    "settings": {
+        "webhook-url": {
+            "name": "Discord Webhook URL",
+            "description": "paste webhook url",
+            "type": "string",
+            "default": ""
+        }
+    }
+}
+
